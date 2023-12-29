@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
